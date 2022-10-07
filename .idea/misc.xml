@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/03)androidstudioprojects28may2022kotlinonly/22)recyclerview_and_adapter_easiest_tutorial_5/app/src/main/res/drawable/rectangle_box.xml" value="0.239" />
         <entry key="..\:/03)androidstudioprojects28may2022kotlinonly/22)recyclerview_and_adapter_easiest_tutorial_5/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/03)androidstudioprojects28may2022kotlinonly/22)recyclerview_and_adapter_easiest_tutorial_5/app/src/main/res/layout/rcv_items.xml" value="0.27447916666666666" />
       </map>
     </option>
   </component>
